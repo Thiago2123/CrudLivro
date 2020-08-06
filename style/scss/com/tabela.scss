@@ -1,0 +1,12 @@
+@import "../def/variables.scss";
+
+.table-hover tbody tr {
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+    &:hover {
+        background-color: rgba(75, 66, 66, 0.233);
+    }
+}
+

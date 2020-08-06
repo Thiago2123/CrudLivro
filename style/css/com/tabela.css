@@ -1,0 +1,8 @@
+.table-hover tbody tr {
+  cursor: pointer;
+}
+.table-hover tbody tr:hover {
+  background-color: rgba(75, 66, 66, 0.233);
+}
+
+/*# sourceMappingURL=tabela.css.map */

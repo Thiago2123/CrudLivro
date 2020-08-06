@@ -1,0 +1,17 @@
+//minhas variaveis aqui
+$enable-gradients: true;
+
+$theme-colors: (
+    "info": #dcedc8,
+    "secondary": #BBB891,
+    //"info": #74e7327c,
+    //"secondary": #74e732d0,
+    "cor": #EF8354
+);
+
+
+
+
+//imports 0ac1c7a2
+@import '../../../lib/bootstrap-4.3.1/scss/functions';
+@import '../../../lib/bootstrap-4.3.1/scss/variables';
